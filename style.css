@@ -192,3 +192,60 @@ section{
 #application-color{
     color: orange;
 }
+footer{
+    display: flex;
+    background-color: black;
+}
+}
+}
+..ftr-fist p{
+    color: white;
+    background-color: white;
+}
+.ftr-fist img{
+    width: 150px;
+}
+.ftr-fist h5{
+    color: white;
+}
+footer{
+    padding-left: 25px; 
+    padding-right: 25px;
+}
+h5{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: whites;
+    margin-top: -1px;
+}
+.ftr-fist a{
+    text-decoration: none;
+    color: white;
+    padding:5px;
+}
+.footes{
+    width: 33%;
+}
+.ftr-secound ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    width: 100;
+    padding: 0px;
+    margin: 0px;
+}
+h4{
+    color: white;
+}
+.footes ul li {
+    color: white;
+}
+.footer-nav{
+    background-color: black;
+    border-top:1px solid white ;
+}
+.footer-nav p{
+    font-size: 14px;
+    color: white;
+    text-align: center;
+}
