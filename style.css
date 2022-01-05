@@ -60,3 +60,36 @@ section{
 .year{
     color: orange;
 }
+.secound-sec{
+    display: flex;
+    margin: 0px;
+}
+.secound-sec img{
+    width: 50%;
+}
+
+.third-collumn{
+    width: 33%;
+}
+.firstd{
+    background-color: #EDF5F9;
+    margin: 0px 2% 0px 2%;
+    padding: 20px;
+    border-radius: 10px;
+}
+.secundd{
+    background-color: #FFF0EE;
+    margin: 0px 2% 0px 2%;
+    padding: 20px;
+    border-radius: 10px;
+}
+.thirdd{
+    background-color: #FFF4D6;
+    margin: 0px 2% 0px 2%;
+    padding: 20px;
+    border-radius: 10px;
+}
+.third-collumn p{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
