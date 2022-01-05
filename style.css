@@ -149,3 +149,46 @@ section{
 .fourth-image img{
     width: 100%;
 }
+.fifth-section{
+    display: flex;
+}
+.fifthdiv h1{
+    font-size: 40px;
+}
+.corona{
+    color: orange;
+}
+.fifth-section{
+    display: flex;
+}
+.fifth-div{
+    width: 50%;
+}
+.fifth-div img{
+    width: 60%;
+    margin-left: 30%;
+}
+.fifth-div p{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    line-height: 1.5;
+    padding-bottom: 20px;
+}
+.App-Fetures{
+    text-decoration: none;
+    background-color: tomato;
+    color: white;
+    padding:10px 25px 10px 25px ;
+    border-radius: 5px;
+}
+.fifthdiv{
+    padding-top: 10%;
+}
+.build{
+    font-size: 45px;
+    text-align: center;
+}
+#application-color{
+    color: orange;
+}
