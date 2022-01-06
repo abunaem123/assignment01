@@ -48,7 +48,7 @@ section{
 }
 
 .secound-h1{
-    color: navy;
+    color: black;
     text-align: center;
     font-size: 40px;
 }
@@ -129,6 +129,7 @@ section{
 }
 .fourth-secs{
     width: 70%;
+    padding-right: 80px;
 }
 .fourth-secs h1{
     font-size: 40px;
