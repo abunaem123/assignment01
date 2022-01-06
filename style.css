@@ -209,8 +209,7 @@ footer{
     color: white;
 }
 footer{
-    padding-left: 25px; 
-    padding-right: 25px;
+    padding: 0px 100px 0px 100px;
 }
 h5{
     font-family: Arial, Helvetica, sans-serif;
@@ -248,4 +247,33 @@ h4{
     font-size: 14px;
     color: white;
     text-align: center;
+}
+.review{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.testimonial-sec{
+    display: flex;
+
+}
+.testimonial-sec img{
+    width: 20%;
+}
+.testimonial{
+    width: 33%;
+    
+}
+.testimonial p{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300px;
+    padding-right: 20px;
+}
+.test-name{
+    font-size: 20px;
+    margin-bottom: -5px;
+}
+small{
+    color: orangered;
+    
 }
