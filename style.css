@@ -95,10 +95,7 @@ section{
 }
 .third-section{
     display: flex;
-    background-image: url(images/shapes/shape-1.png);
-    background-size: contain;
-    background-repeat: no-repeat;
-    padding-top: 50px;
+    
 
 }
 .third-sec{
