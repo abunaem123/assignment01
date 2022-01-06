@@ -206,6 +206,35 @@ footer{
 .ftr-fist h5{
     color: white;
 }
+
+.container{
+    width: 85%;
+    
+}
+.content-box{
+    display: flex;
+    background-color: gainsboro;
+}
+.content-left{
+    width: 60%;
+    padding: 40px 60px;
+}
+.content-right{
+    width: 40%;
+    padding: 40px;
+    background-color: orangered;
+}
+.container h1{
+    margin-bottom: 10px;
+}
+.container p{
+    margin-bottom: 40px;
+}
+.input-row{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
 footer{
     padding: 0px 100px 0px 100px;
 }
